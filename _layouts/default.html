@@ -12,38 +12,23 @@
 </head>
 
 <body>
+    <div class="ui large top fixed hidden menu">
+        <div class="ui container">
+            {% include menu.html %}
+        </div>
+    </div>
     <div class="pusher">
         <div class="ui inverted vertical masthead center aligned segment">
             <div class="ui container">
-                <div class="ui large secondary inverted pointing menu">
-                    <a class="active item">Home</a>
-                    <a class="item" href="/about">About</a>
-                    <a class="item" href="/venue">Venue</a>
-                    <a class="item" href="/schedule">Schedule</a>
-                    <div class="ui inverted dropdown item">
-                      Past years
-                      <i class="dropdown icon"></i>
-                      <div class="ui inverted menu">
-                        <a class="item" href="/2017">2017</a>
-                        <a class="item" href="/2016">2016</a>
-                        <a class="item" href="/2015">2015</a>
-                        <a class="item" href="/2014">2014</a>
-                      </div>
-                    </div>
-                    <div class="right item">
-                        <a class="ui inverted button" href="/cfp">Submit proposal</a>
-                        <a class="ui inverted red button"
-                           href="https://about.illinoisstate.edu/dfw/Pages/Registration.aspx">
-                            Register
-                        </a>
-                    </div>
+                <div class="ui large secondary inverted pointing stackable menu">
+                    {% include menu.html inverted=1 %}
                 </div>
             </div>
             <div class="ui text container">
                 <h1>
                     The Fifth Annual David Foster Wallace Conference
                 </h1>
-                <img src="img/logo.png" />
+                <img class="ui centered image" src="img/logo.png" />
                 <h2>
                     Illinois State University
                     <br />
@@ -207,18 +192,17 @@
                     today!
                 </p>
                 <a href="https://www.dfwsociety.org/">
-                    <img src="img/dfwsociety.png" />
+                    <img class="ui centered image" src="img/dfwsociety.png" />
                 </a>
             </div>
         </div>
         <div class="ui inverted vertical footer segment">
             <div class="ui container">
-                <div class="ui stackable inverted divided equal height
-stackable grid">
+                <div class="ui inverted divided equal height stackable grid">
                     <div class="two wide column">
-                        <h4 class="ui inverted header">
+                        <h2 class="ui inverted header">
                             2018
-                        </h4>
+                        </h2>
                         <div class="ui inverted link list">
                             <a class="item" href="/about">About</a>
                             <a class="item" href="/cfp">Call for proposals</a>
@@ -274,6 +258,16 @@ stackable grid">
     <script src="js/semantic.min.js"></script>
     <script type="text/javascript">
     $('.ui.dropdown').dropdown();
+    $('.masthead').visibility({
+          once: false,
+          onBottomPassed: function() {
+            $('.fixed.menu').transition('fade in');
+          },
+          onBottomPassedReverse: function() {
+            $('.fixed.menu').transition('fade out');
+          }
+        }
+    );
     </script>
 </body>
 </html>
