@@ -111,6 +111,18 @@ body {
     font-size: 1.4em;
 }
 
+#content .ui.segment {
+    font-size: 1.2rem;
+}
+
+#content h3 {
+    font-weight: bold;
+}
+
+#content .sub.header {
+    font-size: 1.3rem;
+}
+
 .ui.food.label {
     float: right;
 }

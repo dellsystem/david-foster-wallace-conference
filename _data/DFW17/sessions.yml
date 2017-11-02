@@ -1,0 +1,370 @@
+- name: A1
+  topic: Creative Writing, Fiction
+  talks:
+    - presenter: Andrea Berns
+      title: Cynical Man Explains to His Son the Ways of the World
+      abstract: Inspired by a short scene in Wallace’s Infinite Jest, this flash fiction piece is written in the form of a monologue between a crudely blunt father and his young son that takes place in a Dairy Queen. In a voice reminiscent of the Incandenzas, the cynical father gives his four-year-old son insight about college, marriage, and life as a middle-aged washout.
+    - presenter: James McAdams
+      title: Dreamcatchers
+      abstract: In this story, "Dreamcatchers," a lonely, dying man's final days are redeemed by the influence of a troubled young woman he meets at a strip club (Yes, I know this sounds cliched!). As a hears her story, he loses interest in romantic relations with her, instead sympathizing with her addicted plight and doing the best to save her. Even though he fails at this task, this action of "silent heroism" (The Pale King) transforms his final days.
+
+- name: A2
+  topic: Derrida and DFW
+  talks:
+   - presenter: Vernon Cisney
+     title: "The Poststructuralist Broom of Wallace’s System: Lenore, Derrida, and Deleuze"
+     abstract: "In this paper I offer a reading of The Broom of the System that demonstrates – through an exposition of Derrida’s notion of différance and his notion of self, and Deleuze’s understanding of intensity – that the poststructuralist thinking that Wallace sometimes dismisses is necessary for his project of moving beyond the worst tendencies of postmodernism."
+   - presenter: Philipp Ohnesorge
+     title: "“Time is out of joint“ – Infinite Jest and the ghosts of the postmodern"
+     abstract: "The paper evaluates the ghosts encountered in Infinite Jest as well as the narration’s haunting elements, found in the structure of temporality, memory and virtuality. The goal is to contextualize the findings with theories of the postmodern proposing a new reading of Wallace’s novel as a piece of “hauntologic“ realism."
+
+- name: B1
+  topic: "Sex and Isolation: IJ, Pale King, Good Old Neon"
+  talks:
+    - presenter: Danielle Ely
+      title: XXX-IJ
+      abstract: For the 4th Annual David Foster Wallace Conference, I am presenting on the topic of sex in Infinite Jest. Building off of my theory that the novel has been drained of genuine femininity, unhealthy/dysfunctional sex then becomes another telltale dystopian element of the novel.
+    - presenter: Ryan Lackey
+      title: "“a way out of the airless conundrum”: David Foster Wallace’s (Not-quite) Postsecularism"
+      abstract: Wallace scholarship often fails to threat seriously the fundamentally mystical spirituality of Wallace’s texts. To reappraise this spirituality, we can deploy Amy Hungerford’s and John McClure’s explication of the postsecular, which both illuminates and is problematized by Wallace’s texts.
+
+- name: B2
+  topic: Visual Representations of DFW
+  talks:
+    - presenter: Shelley Grieve-Zerkel
+      title: "“Thanks everybody and I hope you like it”: Visual and Structural Aspects of Mario's ONANtiad Puppet Show"
+      abstract: The ONANtiad puppet show is more than a substitute for a potential IJ footnote. The medium highlights the recursive structure, and political/radical puppetry underscores themes of colonization and environmental degradation. Construction of the puppet set functions as 3-D close reading, illustrating fan art’s potential for redress and showing how interacting with an “imaginary” work enriches textual understanding.
+    - presenter: Tom Winchester
+      title: The Black-and-White Series
+      abstract: Theories of photography, including theories describing what constitutes a postmodern photograph, have been disrupted by digitization. The result, in part, has been a revival of analog processes. What's postmodern about this revival is its emphasis on truth.
+
+- name: B3
+  topic: "Political Narratives: IJ and Contemporary Discourse"
+  talks:
+    - presenter: Alessandra Tedesco
+      title: "Power, knowledge and alienation: the political deconstruction in David Foster Wallace’s Infinite Jest"
+      abstract: "Under an interdisciplinary approach, this paper analyzes the dialectical nature of the analogies between novels and their real-world referents in David Foster Wallace’s Infinite Jest. The theoretical framework is based on three complementary perspectives: Bertrand Westphal’s theory of géocritique; Foucault’s perspectives on the relationship between power and knowledge, and Franck Fischbach’s work, who claims the actuality of the concept of human alienation."
+    - presenter: Grace Chipperfield
+      title: "But when I grew up, I put away adult things: protracted adolescence in Wallace’s works."
+      abstract: Across his works, with varied wording, Wallace describes America’s present culture and citizens as adolescent. Using identity theories of adolescence to flesh out what Wallace means by this, I argue that a protracted adolescence is indicative of Americans’ (and more broadly, America’s) unresolved identity crisis.
+
+- name: C1
+  topic: Diversity Roundtable
+  abstract: The climate in Wallace studies has always been somewhat contentious w/r/t its diversity, or more accurately, it’s lack of diversity. Critics and scholars critique both Wallace’s lack of diversity in his writing, and the lack of diversity in Wallace scholars, has created some backlash, most recently with Hungerford, Coyle and Crispin. This panel seeks to find out where we might find diversity in DFW’s fiction and nonfiction, the DFW community, and how we might expand diversity in DFW scholarship with a goal of increased participation for DFW18.
+  speakers:
+    - Diego Báez
+    - Andrea Sheridan
+    - Danielle Ely
+    - Ryan Lackey
+
+- name: C2
+  topic: Autobiography and Criticism
+  talks:
+    - presenter: Nathan Seppelt
+      title: "About The Author: Wallace's Real-Time (Auto)Biography"
+      abstract: "This project reads all “About the Author” statements accompanying Wallace’s major publications as a
+single text: a real-time (semi-auto) biography.<br ><br />
+It examines how each statement contributes to a meaningful whole, create tensions internal to the text
+and how this mode of reading is complicated by posthumous “About the Author” statements."
+    - presenter: Matthew Luter
+      title: "Me and Wallace's Shadow: Creating Space for the Personal in Critical Writing About Wallace"
+      abstract: This paper makes the case for the value of autobiographical criticism (in the tradition of Jane Tompkins’s groundbreaking essay “Me and My Shadow”) in Wallace studies as a way of challenging the assumed primacy of traditional academic argumentation, recently decried by Rita Felski as “narrow” and by Kevin Birmingham as “exploitative.”
+
+- name: C3
+  topic: "The Tangle of IJ: Eschaton and the 80's"
+  talks:
+    - presenter: Rich Hanson
+      title: "Eschaton: We’ll All Go Together When We Go."
+      abstract: "The fascinating game of Eschaton from “Infinite Jest” is explored as a wargame simulation with antecedents, as a vision of final judgment, and as human interactions fraught with distrust and hostility that can erupt into open warfare at any time."
+    - presenter: Toon Staes
+      title: "Gödel, Escher, Wallace: Why Infinite Jest Is a Systems Novel"
+      abstract: "This paper examines the influence of Douglas Hofstadter’s Gödel, Escher, Bach (GEB) on Wallace’s Infinite Jest. Tracing how the references to GEB impact Wallace's novel, and borrowing Tom LeClair's useful term for the massive books of the postmodernists, it revisits an old debate: Is Infinite Jest a systems novel?"
+
+- name: D1
+  topic: "DFW and the Boundaries of Art: Oblivion, Good Old Neon, Infinite Jest"
+  talks:
+    - presenter: S. Hamed Tayebi
+      title: Oblivion Stories according to Baudrillard
+      abstract: This presentation will read Oblivion Stories from the perspective of Baudrillard. From his turn against Marxist theory to a critique of everyday life and finally prophecies on hyperreality, simulation and fractal stage of representation, Baudrillard will illuminate Oblivion Stories and point to moments in text which can enrich a critical readings of Wallace.
+    - presenter: Kyle Henrichs
+      title: The Legacy of David Markson (Or Is It David Foster Wallace?)
+      abstract: "I re-examine Wallace’s “The Empty Plenum: David Markson’s Wittgenstein’s Mistress” in the context of Wallace’s and Markson’s legacies, reflecting on the idea of “legacy” itself. I demonstrate how Wallace became instrumental in constructing Markson’s posthumous legacy and comment on the practice of legacy-making as the manipulation of cultural capital."
+
+- name: D2
+  topic: Region, Culture, and DFW's Nonfiction
+  talks:
+    - presenter: Alexander Moran
+      title: The Cultural Capital of David Foster Wallace as a “Textual Subject” In Contemporary Fiction
+      abstract: This paper focuses on what David Hering terms Wallace the “textual subject,” and traces the Wallace-like figures that appear in the work of Mark Leyner, Jennifer Egan, Jeffrey Eugenides, Jonathan Franzen, Jonathan Lethem, and Richard Powers. Using the ideas of Pierre Bourdieu, I explore these iterations to outline the cultural capital of Wallace across contemporary literature.
+    - presenter: Laurie McRae Andrew
+      title: "Regionality: David Foster Wallace and American regional fiction in
+the twentieth century"
+      abstract: "This paper reconsiders Wallace’s writing of region through links between his early fiction and the writing of Eudora Welty and Flannery O’Connor. Exploring Wallace’s complex relation to the regional tradition in twentieth century American fiction, it considers him alongside the turn to a ‘new regionalism’ in the 1980s."
+
+- name: D3
+  topic: Creative Writing
+  talks:
+    - presenter: Grace Chipperfield
+      title: The Nominee's Speech
+      abstract: As part of my PhD in Creative Writing, I will produce a novel-length work that speaks to my research into what it is to be an American citizen and how this relates to adolescence and adulthood in the works of David Foster Wallace. My creative reading is from this work-in-progress.
+    - presenter: Ashley Kjos
+      title: Although of Course You End Up Becoming (Less) Yourself
+      abstract: This essay documents a day at the 2016 David Foster Wallace Conference, as well as its own writing process in the months that follow. It considers Wallace's work, Central Illinois, and self consciousness.
+
+- name: D4
+  topic: Brief Interviews with Hideous Men
+  talks:
+    - presenter: Samantha Wallace
+      title: "Interviews, Empathy, and Hideous Men: Discussing Feminism and David Foster Wallace"
+      abstract: "In this essay I examine the questions of open dialogue and radical empathy in Brief Interviews to begin a conversation about some of the more difficult aspects of Wallace’s work: the “sublime” woman, the notable absence or caricature of racial minorities, and the foundational question, why is it the hideous man we, the reader, must work through in order to engage in empathy?"
+    - presenter: John Mango
+      title: I'm With Someone I Know, But Don't Know How I Know Them
+      abstract: What if individuality, as you know it, was wrong? By exploring Wallace through a Hegelian lens, we'll attempt to see how empathy is always already at the core of our phenomenological relationship those around us to the point that it was weird any of us thought we were separated in the first place.
+
+- name: E1
+  topic: Linguistics, Style, and Translation
+  talks:
+    - presenter: Bojana Totovic
+      title: Infinite Translation
+      abstract: The discussion on attempting to translate sections of Infinite Jest into Serbian will focus not solely on the challenges and feasibility of such a project, but also on the cultural understanding and exchange that happens when confronted with interpreting the novel from a different culture in a globalized world.
+    - presenter: Antonio Aguilar-Vazquez
+      title: "“Upgrade yo vocab”: A Re-evaluation of Signifying Rappers Based on Primary Sources and Richard Rorty's Concept of Public Vocabularies."
+      abstract: "A re-evaluation of Signifying Rappers based on archival material from the book’s editorial and publication process and Richard Rorty’s concept of vocabularies; highlighting the complexity and importance of Wallace’s rare analysis of racial and social relations in America as described in rap music."
+
+- name: E2
+  topic: Infinite Jest Portrayals of Addiction and Excess
+  talks:
+    - presenter: Ashlie Kontos
+      title: "“Our attachments are our temple”: Addiction, Recovery, and the Metamodernist Movement"
+      abstract: "I examine how contemporary fiction departs from postmodern tendencies and draw parallels between certain postmodern characteristics and the disposition of most addicts. I explore White Teeth, Infinite Jest, and Extremely Loud and Incredibly Close: how these novels continue postmodernism’s experimentation while abandoning its detachment to again explore authenticity and sincerity. These attributes ultimately enable addicts to cognitively and behaviorally reframe their engagement with their addiction, and I argue that these very qualities also push the literary community out of the postmodern refrain."
+    - presenter: Ross Sellers
+      title: "The American Dream in Infinite Jest and Fear and Loathing in Las Vegas: Excessive, Detached, Extravagant and Full of Depravity Instead of Prosperity"
+      abstract: "While Hunter S. Thompson and David Foster Wallace have often been cited as dismissive toward one
+another, I argue that both writers were cognizant of the dark times on the horizon in their respective
+eras, and were simultaneously painfully aware of how the American Dream has been, and continues
+to be, a contributor to those dark times."
+
+- name: E3
+  topic: This is Water
+  talks:
+    - presenter: Matt Bucher
+      title: "The Genesis of Water: How George Steiner Shaped Wallace's Kenyon Commencement Address"
+      abstract: "George Steiner's 1996 Kenyon Commencement address deeply influenced Wallace's approach to
+crafting his advice to Kenyon's students, but mostly in a negative way."
+      presenter: Rob Short
+      title: David Foster Wallace's Transformative Gifts and the Labor of Gratitude
+      abstract: This paper examines the influence of Alcoholics Anonymous and Lewis Hyde’s The Gift —specifically Hyde’s theorization of what he calls “gift economies” and their currency, expressed as “labors of gratitude”—on David Foster Wallace’s Kenyon Commencement Speech, the most distilled example of the writing ethic Wallace honed in Infinite Jest.
+
+- name: E4
+  topic: Living Art
+  talks:
+    - presenter: Peter Gus Sparacio
+      title: Waves Upon The Stars
+      abstract: Depth can be strange and scary and totally liberating. Here are brief poems and a short story about characters experiencing something profound, an awareness of and a desire for compassionate living.
+    - presenter: David Hamme
+      title: "Trying to Find Out What the Entertainment's Appeal Is Without Sacrificing Any of Your Own: A Field Report, P.S.2017"
+      abstract: "Melodrama, recapitulation, and an argument for the relevance of the filmography of the auteur.<br /><br />“If there's one even remotely consistent theme it's maybe film and film-cartridges.”<br />
+“But who can know what's on them? Who can study the Entertainment while detached?”<br />
+-- Infinite Jest"
+
+- name: F1
+  topic: Infinite Jest and Perception
+  talks:
+    - presenter: Christopher White
+      title: Embodied Reading, Intersubjectivity, and Infinite Jest
+      abstract: Drawing on recent work in cognitive narrative theory and literary social cognition, my paper presents a conceptual framework for understanding readers’ co-creative engagement with Infinite Jest’s character minds, and with the narrative’s inferred author. I illustrate this model with a reading of the opening section of Infinite Jest.
+    - presenter: Nicholas Noble
+      title: "A Policy of Blood and (Iron)y: Wallace as Ironist"
+      abstract: I interpret Wallace as an ironist whose project to recover a poetics of sincerity “completes” irony by rendering irony sincere and sincerity ironic. Wallace achieves this as a literary affect by setting up “triple frames” that layer moments with overlapping levels of irony and sincerity that consequently erase the gaps between.
+
+- name: F2
+  topic: "Philosophy Special Session: Interpersonal Ethics"
+  moderator: John Mango
+  talks:
+    - presenter: Marco Meneghelli
+      title: "Posture and imposture in a extramoral sense: between tennis, semiotics, philosophy and politics: David Foster Wallace VS Bret Easton Ellis (also considering Philip K. Dick)"
+      abstract: "Bret Easton Ellis once said that David Foster Wallace was an impostor. Considering the Ellis' critique to Wallace, I will propose a survey on the concept (and the same word) of posture in Infinite Jest, with the certitude that it plays a central and fundamental role in DFW's literature, ethics and philosophy."
+    - presenter: Paolo Pitari
+      title: David Foster Wallace’s Sociology and its Existential Consequences
+      abstract: "With this presentation I’ll call into question Wallace’s sociological analysis by comparing it to the works of Bauman and Giddens. By so doing, previously unnoticed nuances will surface that will, in turn, raise doubts as to whether Wallace’s thought and existentialism can effectively provide answers to neoliberal ideology."
+
+- name: F3
+  topic: Feminism Special Session
+  moderator: Samantha Wallace
+  talks:
+    - presenter: Aisling Smith
+      title: "“No More Smiley Masks”: Wallace's Masked Woman"
+      abstract: "Masks recur in both literal and figurative ways throughout Wallace’s works, particularly in his representations of women. Via discussion of Infinite Jest’s Joelle Van Dyne and The Pale King’s Meredith Rand, I will show that masks are often intrinsically connected to Wallace’s treatment of female sexuality."
+    - presenter: Ashlie Kontos
+      title: "The De-democratization of Reading: Amy Hungerford’s Objection to Reading DFW"
+      abstract: "This essay will examine Amy Hungerford’s recent publications (“On Not Reading” featured in the Chronicle of Higher Education in September 2016 and the extended argument in her latest book Making Literature Now) on why she believes the reading public should not read the works of Davis Foster Wallace. I will examine her argue on three counts: 1) her assumption that the author’s (inter)actions in Real Life determine the kind of relationship (s)he has with the reader, 2) the writer/author-reader relationship portrayed as a sexual relationship–she depicts DFW’s fiction as trying to fuck the reader while Jonathan Safran Foer, in comparison, tries to make love to the reader[1], 3) the shame of admitting one has not read a work, and 4) the time quandary: reading takes time; longer books take more time to read; should we only read shorter books so as to be able to read more? This essay will briefly consider other women’s arguments on not reading DFW, and how the act of reading is still very much a political act and one that should remain open and free to all readers."
+
+- name: G1
+  topic: "Politics Special Session: Nationalism and Political Deconstruction"
+  moderator: Grace Chipperfield
+  talks:
+    - presenter: Clare Hayes-Brady
+      title: "On and on and on: flatness, affect and the politics of place in the work of David Foster Wallace"
+      abstract: "This paper argues that Wallace’s complex engagement with postmodernist cynicism is framed partly
+through establishing an urban/rural friction in his writing. By creating this antagonism, he positions the city as a malevolent, mutable postmodernist space and the country as a space of “authentic” art and self-discovery."
+    - presenter: Thomas Moore
+      title: "Rereading the Clichés of David Foster Wallace: Resisting
+Neoliberalism Through Valuing the Ordinary"
+      abstract: This paper examines how Wallace’s “Good Old Neon” employs cliché as a literary device for revealing selfishness, lovelessness, and delusions of uniqueness as “norms” of hegemonic masculinity. Wallace’s renewed philosophical investigation of cliché concludes with a recommendation that faith in being-for-the-Other is the key to ethical responsibility.
+    - presenter: Tanner Lyon
+      title: "InterLaced: Infinite Jest and Late-Stage Capitalism"
+      abstract: Profoundly resonant with late-stage capitalism in the United States, Infinite Jest is filled with ideological ploys of entertainment and media to effect mass social control of individuals. This essay analyzes Marxist theory and the sociopolitical context of Infinite Jest to demonstrate the divergence of economics and politics that Marx theorized would mark the end of capitalism.
+    - presenter: Ryan Edel
+      title: "The Writer’s Ethic: Addressing Autography to the ‘Post-Factual’ Era"
+      abstract: "This presentation reframes political discourses as autobiographical conflicts, per Berlant’s “intimate publics.” Through standpoint theory, we can see that technological comfort breeds epistemic apathy among many Americans. Perreault’s “autography” may provide creative writers a model to overcome social denigration of the academy."
+
+- name: G2
+  topic: "Empathy Special Session: Between You and Me: ‘Feeling Into’"
+  speakers:
+    - Barbara Balfour
+    - Corrie Baldauf
+    - Dave Laird
+    - Lauren Nurse
+  abstract: "The panelists explore empathetic connections between art and life, outsider and group, online and in-person interactions, footnotes and fungi – between you and me. Wallace said “True empathy’s impossible” yet described imaginatively identifying with a character as “nourishing and redemptive”. We consider how this might lead, in DFW’s words, to becoming “less alone inside”."
+
+- name: G3
+  topic: "Creative Writing: (Dis)Ordered Chaos: Presenting the (Un)Speakable Human Condition"
+  talks:
+    - presenter: Jane Carman
+      title: Moderator
+      abstract: Carman’s writing works to (re)define and explain the human condition through the manipulation of forms, ideas, understandings, and the (extra)ordinary details of everyday life.
+    - presenter: Kathleen Miller
+      title: Untitled
+      abstract: Miller’s creative work is a nonlinear, fragmented text that seeks to dismantle traditional forms of narrative, disrupt generic boundaries, and dislocate perceptions and expectations.
+    - presenter: Amy Eggert
+      title: Untitled
+      abstract: Eggert’s creative work attempts to resemble the chaotic, traumatized nature of the mind under duress in order to bring readers closer to so-called “unspeakable” experience.
+
+- name: G4
+  topic: Metatextual Infinite Jest
+  talks:
+    - presenter: Daniel Leonard  
+      title: "Worst Is the Armed Mother: Mariticide and Filial Aggression in 'The Dream Songs' and 'Infinite Jest'"
+      abstract: "Following up on last year’s conference paper, I have continued to research how Hal’s coping with grief for his father in Jest draws on Henry’s in the Songs. I pursue evidence that Henry suspects his mother of killing his father and seek parallels with Hal and Avril."
+    - presenter: Maxwell Suechting
+      title: "But Am I Paranoid Enough? Obsession, Addiction, and Reading in Infinite Jest"
+      abstract: "This paper considers reading Infinite Jest through the lens of obsession. Tracing how Wallace depicts obsession in his characters and encourages it in his reader, I configure obsession as an affect of reading that quilts together a diegetic world, an individual experience, and the text’s wider reception."
+    - presenter: Ross Barnes
+      title: "It Was a Great Marvel He Was in the Father Without Knowing Him: Orality, Literacy, and Visuality in Infinite Jest"
+      abstract: "This paper examines the various signifying systems of representation (specifically notions of orality, literacy, and visuality) as they pertain to questions of identity and authorship in Infinite Jest. Particular theoretical attention is given to diegetic, extra-diegetic, and heuristic reading devices that work in concert to constitute the narrative."
+
+- name: H1
+  topic: "Disability Studies Special Session: Mental Illness and “The Depressed Person”"
+  moderator: Rhett Farinholt
+  talks:
+    - presenter: Rob Mayo
+      title: "‘It's like I can't get enough outside it to call it anything’: diagnosing depression in Infinite Jest."
+      abstract: This presentation functions as an introduction to the long-running theme of malaises and mood disorders in Wallace's fiction. Through the character of Kate Gompert in Infinite Jest this paper explores the foundations and boundaries of the mental disorder which 'hang[s] fog-like' over the novel and, indeed, Wallace’s entire oeuvre.
+    - presenter: Andrew Sutcliffe
+      title: "The Narcissist’s Wet Dream: ‘Good Old Neon’, David Foster Wallace and the Psychiatric Paradox"
+      abstract: "In 'Good Old Neon', DFW presents the “narcissist’s wet dream”: an objective view of the self, free from selfhood. What does such a view say about mental illness and could it ever be possible?"
+    - presenter: Ross Owens
+      title: "Suicide as a Sort of Gift"
+      abstract: "Georges Bataille's concept of 'la part maudite' [The Accursed Share] offers a way of conceptualising certain orthodoxies about mental health and suicide. We might then understand Wallace's writing on such as the inevitable explosion, the catastrophic destruction, of a mind that produces an invulnerable surplus; an excess of thought and – being thought – impervious to destruction."
+
+- name: H2
+  topic: "Infinite Jest: Shifting Culture, Things, and Technology"
+  talks:
+    - presenter: Natalie Helberg 
+      title: "Society’s Destruction through Technology’s Seduction: Understanding James Incandenza’s filmography in Infinite Jest"
+      abstract: Using interviews with David Foster Wallace and specific critical research my discussion presents James Incandenza’s filmography as a declaration to technology’s seductive tendencies. This eight and half page filmography provides significant details into the destruction of society as portrayed in Infinite Jest.
+    - presenter: Carly Yingst
+      title: "Sifting through Lists: Reading and Rereading the “Litter-type Objects” of Infinite Jest"
+      abstract: "This paper brings together neomaterialist and psychoanalytic approaches to examine different models Infinite Jest provides for managing its things and objects. It focuses particularly on Wallace’s lists, as a way to understand how the novel, across numerous (re)readings, shifts attention between subject and object, self and world, inside and outside."
+    - presenter: Bill Lattanzi
+      title: "Delerious with Noxema: Pop Culture and Signal and Noise in Infinite Jest"
+      abstract: "A deep dive into the movie, television, film, art, music and other pop culture references in Infinite Jest. This 20 minute talk will be of the slide-show-and-video-clip-with-commentary style, a not-strictly-academic-but-easily-accessible-approach similar to the presenter’s talk on Wallace’s Boston at the first DFW Conference in 2015."
+
+- name: H3
+  topic: "Pedagogy: To Be Present and Human: The Pedagogy and Practice of Reading, Writing, and
+Thinking Outside the Margins"
+  abstract: "This interactive presentation considers how the comfort of mainstream (publishing and erudition) alienates/isolates readers/writers from innovative texts, how readers can work through the frustration/(mis)understanding of such texts, and how to turn discomfort into interest and engagement to create/engage in texts reflecting the present and what it means to be human."
+  talks:
+    - presenter: Jane Carman
+      title: Moderator
+      abstract: Carman argues innovative collage works like Lance Olsen’s Calendar of Regrets are a more accurate reflection of reality (experienced through multiple windows/tabs) than mainstream literature.
+    - presenter: Kathleen Miller
+      title: Untitled
+      abstract: Miller’s critical work argues passive readers who seek prepackaged meaning can be transformed into engaged, active architexts who construct meaning vis-à-vis experimental texts.
+    - presenter: Amy Eggert
+      title: Untitled
+      abstract: Eggert will share several short innovative texts used in her introductory creative writing classrooms, along with student samples that demonstrate experimental attempts at “stress writing.”
+
+- name: H4
+  topic: Religion Special Session
+  moderator: Michael McGowan
+  talks:
+    - presenter: Tristan Cooley
+      title: The Sacred Midwest in "Westward the Course of Empire Takes its Way."
+      abstract: Wallace imbues the Illinois landscape with a polarizing power over his story’s characters in "Westward the Course of Empire Takes its Way," where an affinity with Midwestern surroundings emerges as a prerequisite to the oft cited "sincerity" of Wallace's post-postmodern agenda.
+    - presenter: Michelle Martin
+      title: Addiction and Recovery in David Foster Wallace's Infinite Jest
+      abstract: An examination of addiction and Alcoholics Anonymous in Infinite Jest focused on how Wallace uses the religiously rooted 12-step program as a model for recovery from addiction.
+    - presenter: Martin Brick
+      title: "Bloomsday in Beantown: The Influence of Ulysses on Infinite Jest"
+      abstract: This paper examines the influence of Joyce’s Ulysses, specifically looking at correspondence between Hal Incandenza/Stephen Dedalus and Don Gately/Leopold Bloom. Each work offers similar messages regarding spirituality, critiquing the overly intellectual approach of the younger characters in favor of a more intuitive faith of the older men.
+
+- name: I1
+  topic: "Aesthetics of Failure and “Iceberg” Plotting"
+  talks:
+    - presenter: Julianne McCobin
+      title: "“Weirdly Compelling”: Desire, Pain, and the Aesthetics of Failure in Infinite Jest"
+      abstract: "In dialogue with Clare Hayes-Brady’s characterization of Wallace’s poetics as ones of “generative failure,” this paper focuses on the aesthetic importance of vulnerability, hiddenness, and suggestion in Wallace’s novel Infinite Jest. I focus on Mario’s search for “valid art” and his obsession with M.P.’s radio program to reconsider the novel’s affective and stylistic entanglements"
+    - presenter: "Michael O'Connell"
+      title: "“Melting the Iceberg”: David Foster Wallace’s Rewriting of Ernest Hemingway"
+      abstract: "This talk addresses both the specific ways that “Good People” is indebted to Hemingway’s “Hills like White Elephants,” and how Wallace’s differing approach to similar subject matter encapsulates his attempt to revise the legacy of modernism, which he claimed left us with a “distrust of strong belief, [and] open conviction.”"
+
+- name: I2
+  topic: Inspiration for Pale King
+  talks:
+    - presenter: Philip Sayers
+      title: "The Pale King and the “Cowboys of Information”"
+      abstract: "Drawing on archival research at the Harry Ransom Center, this paper examines the composition, editing process, and reception of The Pale King. All three of these stages have been characterized by the same kind of labour that the novel is about: corralling large quantities of information into a meaningful narrative."
+    - presenter: Yonina Hoffman
+      title: "The Making of Sincerity: Wallace and Updike"
+      abstract: "This paper explores the substantial influence of John Updike on Wallace, focusing on Wallace’s engagement with Updike’s prose as an aesthetic ideal for narrative voice in The Pale King. Updike helps Wallace to develop the more beautiful and “sincere” single-entendre principles for which he strove."
+
+- name: I3
+  topic: Creative Writing
+  talks:
+    - presenter: Jeffrey Calzaloia
+      title: Anon.
+      abstract: A short story about the hacktivist group Anonymous that is slowly becoming the first chapter of a novel.
+    - presenter: Brian May
+      title: The Red Kite
+      abstract: "“The Red Kite” is a prose-poem of empty wonder, wonder reaped in-- from-- solitude, and wonder that cannot last. Speaking pretentiously, Beckett meets Gass meets Lamorisse in Chicagoland."
+
+- name: J1
+  topic: "DFW: Conveying the Mysterious, the Spiritual, the Postmodern"
+  talks:
+    - presenter: Danny Sheaf
+      title: "David Foster Wallace, Jan Patočka and the Isolated Subject"
+      abstract: Following Wallace’s discussion of advertising, I will suggest that the logic of cultivating a ‘personal identity’ has come to shape our social relations. I will suggest that the notion of the self as an isolated ego fails to grasp the necessarily situational ground that makes us who we are.
+    - presenter: Peter Spaulding
+      title: "The Abolition of Maps: A Comparative Read of David Foster Wallace's Infinite Jest and C.S. Lewis's The Abolition of Man"
+      abstract: "This paper compares similarities between the philosophical undercurrents of David Foster Wallace’s Infinite Jest and C.S. Lewis’s The Abolition of Man. Both works offer, as a solution, the subjection of the individual will to a greater body for their concerns about a growing cultural tendency toward solipsism."
+
+- name: J2
+  topic: "Teaching Wallace's Prose"
+  talks:
+    - presenter: Jacob Singer
+      title: Building Sentences with David Foster Wallace
+      abstract: This presentation will demonstrate how stylistics can be used to explore David Foster Wallace’s style in both his fiction and nonfiction. By examining how Wallace uses different aspects of cumulative syntax, one will gain insight to how he used grammar in order achieve rhetorical ends.
+    - presenter: Suzanne Webb
+      title: "Teaching with David Foster Wallace: Essays, Empathy & Empirical Research"
+      abstract: Even though Wallace is gone, there is still a great deal he can teach us about writing. Students can learn how to scrutinize, digest, consider, write, rewrite, and expose. They learn to ask questions. Observe. Take notes. Ponder. They learn to write about things they care about; they observe; they experience.
+
+- name: J3
+  topic: Creative Writing
+  talks:
+    - presenter: Jeff Jarot
+      title: A Silent Dirge in Progress
+      abstract: Jarot’s piece is an experiment in flash fiction that also serves as a deliberate attempt to blend the lines between poetry and fiction. It was originally composed sans capitalization and punctuation, both of which have been strategically added for both coherence and clarity.
+    - presenter: Ryan Edel
+      title: An Echo of Sorrow
+      abstract: In this creative commentary on "progress" in a galaxy of magical force, a sad disciple of ancient knights tries to save her dying master from the inevitability of economic collapse. What have they lost from the old ways? How much did their lives of study matter, really?

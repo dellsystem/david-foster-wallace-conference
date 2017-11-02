@@ -1,0 +1,94 @@
+---
+layout: default
+title: DFW17
+subtitle: Archives from the 2017 conference
+---
+
+<a name="top"></a>
+
+<div class="ui basic center aligned segment">
+    <a class="ui large grey button" href="#top">Keynote</a>
+    <a class="ui large grey button" href="#sessions">Sessions</a>
+    <a class="ui large grey button" href="#presenters">Presenters</a>
+</div>
+
+<h2>Keynote given by {{ site.data.DFW17.keynote.speaker }}<h2>
+<h3>{{ site.data.DFW17.keynote.title }}</h3>
+<p>{{ site.data.DFW17.keynote.abstract }}</p>
+
+<a name="sessions"></a>
+<div class="ui basic center aligned segment">
+    <a href="#top">Back to top</a>
+</div>
+
+<h2>Sessions</h2>
+
+{% for session in site.data.DFW17.sessions %}
+    <h3 class="ui top attached header">
+        Session {{ session.name }}: {{ session.topic }}
+        {% if session.moderator %}
+        <div class="sub header">
+        Moderator: <a href="#{{ session.moderator|slugify }}">{{ session.moderator }}</a>
+        </div>
+        {% endif %}
+    </h3>
+    {% if session.abstract or session.speakers %}
+    <div class="ui attached segment">
+        {% if session.speakers %}
+        <h4 class="ui header">
+            {% for speaker in session.speakers %}
+            <a href="{{ speaker|slugify }}">
+                {{ speaker }}</a>{% if forloop.first %} (moderator){% endif %}{% unless forloop.last %},{% endunless %}
+            {% endfor %}
+        </h4>
+        {% endif %}
+        {% if session.abstract %}
+        <p>
+            {{ session.abstract }}
+        </p>
+        {% endif %}
+    </div>
+    {% endif %}
+    {% if session.talks %}
+    {% for talk in session.talks %}
+    <div class="ui attached segment">
+        <h4 class="ui header">
+            {{ talk.title }}
+            <div class="sub header">
+                <a href="#{{ talk.presenter|slugify }}">{{ talk.presenter }}</a>
+            <div>
+        </h4>
+        <p>{{ talk.abstract }}</p>
+    </div>
+    {% endfor %}
+    {% endif %}
+{% endfor %}
+
+<a name="presenters"></a>
+<div class="ui basic center aligned segment">
+    <a href="#top">Back to top</a>
+</div>
+
+<h2>Presenter bios</h2>
+
+<br />
+
+<div class="ui two column grid">
+    {% for presenter in site.data.DFW17.bios %}
+    <div class="column" id="{{ presenter.name|slugify }}">
+        <h3 class="ui top attached header">
+            {{ presenter.name }}
+            <div class="sub header">
+                {{ presenter.from }}
+            </div>
+        </h3>
+        <div class="ui attached segment">
+            <p>{{ presenter.bio|markdown }}
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<div class="ui basic center aligned segment">
+    <a href="#top">Back to top</a>
+</div>
