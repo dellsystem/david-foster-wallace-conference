@@ -13,5 +13,21 @@
 
 <body>
     {{ content }}
+    {% include footer.html %}
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/semantic.min.js"></script>
+    <script type="text/javascript">
+    $('.ui.dropdown').dropdown();
+    $('#dark-menu').visibility({
+          once: false,
+          onBottomPassed: function() {
+            $('.fixed.menu').transition('fade in');
+          },
+          onBottomPassedReverse: function() {
+            $('.fixed.menu').transition('fade out');
+          }
+        }
+    );
+    </script>
 </body>
 </html>
