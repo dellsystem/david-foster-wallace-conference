@@ -2,10 +2,26 @@
   display: none;
 }
 
+.title.segment {
+    background: url('../img/light-triangles.png');
+    padding-top: 150px;
+    padding-bottom: 70px;
+}
+
+.title h1.ui.header {
+    font-weight: bold;
+    font-size: 3.5em;
+}
+
+.title h1.ui.header .sub.header {
+    font-size: 1.4rem;
+}
+
 .masthead.segment {
   min-height: 600px;
   padding-top: 1em;
   padding-bottom: 4em;
+  background: url('../img/dark-triangles.png') !important;
 }
 .masthead .logo.item img {
   margin-right: 1em;
@@ -20,7 +36,6 @@
 }
 .masthead h2 {
   font-size: 1.4em;
-  font-weight: normal;
   margin-top: 1em;
   margin-bottom: 2em;
 }
@@ -29,7 +44,7 @@
   padding: 4em 0;
 }
 .ui.vertical.stripe h3 {
-  font-size: 1.5em;
+  font-size: 1.3em;
   font-weight: bold;
 }
 .ui.vertical.stripe p {
@@ -68,18 +83,30 @@
   }
 }
 
-dl {
-    font-size: 1.5em;
-}
-
-dt {
-    font-weight: bold;
-}
-
 .ui.table {
     font-size: 1.1em;
 }
 
 .footer p {
     font-size: 1.2em;
+}
+
+/* For sticky footer */
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.pusher {
+    flex: 1;
+}
+
+#content {
+    padding: 50px 0;
+}
+
+#content {
+    font-size: 1.4em;
 }

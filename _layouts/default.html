@@ -1,273 +1,30 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+---
+layout: base
+---
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-  <head>
-    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Fifth Annual David Foster Wallace Conference</title>
-    <link href="http://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" type="text/css">
-	<link rel="stylesheet" type="text/css" href="/css/semantic.material.min.css" />
-	<link rel="stylesheet" type="text/css" href="/css/styles.css" />
-</head>
-
-<body>
-    <div class="ui large top fixed hidden menu">
+<div class="ui large top fixed menu">
+    <div class="ui container">
+        <a class="item" href="/">
+            <img src="/img/dfw18.png" class="ui image" />
+        </a>
+        {% include menu.html %}
+    </div>
+</div>
+<div class="pusher">
+    <div class="ui title segment">
         <div class="ui container">
-            {% include menu.html %}
+            <h1 class="ui header">
+                {{ page.title }}
+                <div class="sub header">
+                    {{ page.subtitle }}
+                </div>
+            </h1>
         </div>
     </div>
-    <div class="pusher">
-        <div class="ui inverted vertical masthead center aligned segment">
-            <div class="ui container">
-                <div class="ui large secondary inverted pointing stackable menu">
-                    {% include menu.html inverted=1 %}
-                </div>
-            </div>
-            <div class="ui text container">
-                <h1>
-                    The Fifth Annual David Foster Wallace Conference
-                </h1>
-                <img class="ui centered image" src="/img/logo.png" />
-                <h2>
-                    Illinois State University
-                    <br />
-                    June 7-9, 2018
-                </h2>
-                <div class="ui large button">
-                    Submit a proposal
-                </div>
-                <a class="ui large red button"
-                   href="https://about.illinoisstate.edu/dfw/Pages/Registration.aspx">
-                    Register
-                </a>
-            </div>
-        </div>
-        <div class="ui vertical stripe center aligned segment">
-            <div class="ui text container">
-                <p>
-                    Literature and culture, with an emphasis on David Foster Wallace.
-                </p>
-                <p>
-                    See content from previous years:
-                </p>
-                <a class="ui large grey button" href="/2017">
-                    2017
-                </a>
-                <a class="ui large grey button" href="/2016">
-                    2016
-                </a>
-                <a class="ui large grey button" href="/2015">
-                    2015
-                </a>
-                <a class="ui large grey button" href="/2015">
-                    2014
-                </a>
-            </div>
-        </div>
-        <div class="ui vertical stripe quote segment">
-            <div class="ui equal width stackable internally celled grid">
-                <div class="center aligned row">
-                    <div class="column">
-                        <h2 class="ui header">
-                            Deadlines
-                        </h2>
-                        <dl>
-                            <dt>December 10, 2017</dt>
-                            <dd>Proposals due</dd>
-                            <dt>April 30, 2018</dt>
-                            <dd>Early registration closes</dd>
-                            <dt>May 30, 2018</dt>
-                            <dd>Late registration closes</dd>
-                        </dl>
-                        <p>
-                            <strong>All presenters</strong> must register by April 30th to be
-                            included in the schedule.
-                        </p>
-                    </div>
-                    <div class="column">
-                        <h2>
-                            Call for proposals
-                        </h2>
-                        <p>
-                            The 2018 call for proposals is now live!
-                        </p>
-                        <p>
-                            The conference invites both critical scholarship
-                            and creative writing.  Papers and panels should
-                            focus on literary works published since the 1950s
-                            and/or in the works of David Foster Wallace.
-                            Creative writing proposals in all genres are
-                            welcome.
-                        </p>
-                        <a href="/cfp" class="ui huge red button">
-                            View CFP
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="ui vertical stripe segment">
-            <div class="ui text container">
-                <h2>Registration fees</h2>
-                <p>
-                    In recognition of differing financial situations, we
-                    offer different registration tiers. It typically costs
-                    $70 per person to cover catering, classroom
-                    reservations, and speaker fees&mdash;the higher fees paid
-                    by full-time faculty help subsidize student
-                    attendees.
-                </p>
-                <table class="ui padded table">
-                    <thead>
-                        <tr>
-                            <th class="nine wide">
-                                Type of registration
-                            </th>
-                            <th class="four wide">Early (April 30)</th>
-                            <th class="three wide">Late (May 30)</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>
-                                <strong>Faculty + Sponsorship</strong>
-                                <br />
-                                <em>This will allow us to waive
-                                registration fees for a student
-                                presenter in financial need. In 2017,
-                                we were able to award waivers to seven
-                                presenters.</em>
-                            </td>
-                            <td>$150</td>
-                            <td>$150</td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <strong>Faculty / Full-time employment</strong>
-                            </td>
-                            <td>$100</td>
-                            <td>$120</td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <strong>Students / Part-time
-                                employment</strong>
-                            </td>
-                            <td>$75</td>
-                            <td>$90</td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <strong>
-                                    Students in financial need
-                                </strong>
-                            </td>
-                            <td>$40</td>
-                            <td>$50</td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <strong>
-                                    Book fair table
-                                </strong>
-                                <br />
-                                In addition to individual registration.
-                            </td>
-                            <td>$50</td>
-                            <td>$60</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-        </div>
-        <div class="ui vertical stripe center aligned segment">
-            <div class="ui text container">
-                <p>
-                    Want to join an international community of scholars?
-                    Looking for opportunities to publish in a peer-reviewed
-                    journal of DFW Studies? Join
-                    <strong><a href="https://www.dfwsociety.org/">The International
-                    David Foster Wallace Society</strong></a>
-                    today!
-                </p>
-                <a href="https://www.dfwsociety.org/">
-                    <img class="ui centered image" src="/img/dfwsociety.png" />
-                </a>
-            </div>
-        </div>
-        <div class="ui inverted vertical footer segment">
-            <div class="ui container">
-                <div class="ui inverted divided equal height stackable grid">
-                    <div class="two wide column">
-                        <h2 class="ui inverted header">
-                            2018
-                        </h2>
-                        <div class="ui inverted link list">
-                            <a class="item" href="/about">About</a>
-                            <a class="item" href="/cfp">Call for proposals</a>
-                            <a class="item" href="/venue">Venue</a>
-                            <a class="item" href="/schedule">Schedule</a>
-                        </div>
-                    </div>
-                    <div class="two wide column">
-                        <h2 class="ui inverted header">
-                            Past
-                        </h2>
-                        <div class="ui inverted link list">
-                            <a class="item" href="/2017">2017</a>
-                            <a class="item" href="/2016">2016</a>
-                            <a class="item" href="/2015">2015</a>
-                            <a class="item" href="/2014">2014</a>
-                        </div>
-                    </div>
-                    <div class="eight wide column">
-                        <h2 class="ui inverted header">
-                            This website is open source!
-                        </h2>
-                        <p>
-                            This website is developed by <a
-                            href="https://twitter.com/dellsystem">@dellsystem</a> and made
-                            available under an MIT license on <a
-                            href="https://github.com/dellsystem/david-foster-wallace-conference">Github</a>.
-                            Feel free to suggest improvements and corrections!
-                        </p>
-                    </div>
-                    <div class="four wide right aligned column">
-                        <h2 class="ui inverted header">
-                            Contact
-                        </h2>
-                        <a class="ui huge circular twitter icon button"
-                           href="https://twitter.com/dfwconference">
-                            <i class="inverted twitter icon"></i>
-                        </a>
-                        <a class="ui huge circular facebook icon button"
-                           href="https://www.facebook.com/DFWConference/">
-                            <i class="inverted facebook icon"></i>
-                        </a>
-                        <a class="ui huge circular red icon button"
-                           href="mailto:dfwconference@gmail.com">
-                            <i class="mail icon"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
+    <div class="ui vertical segment">
+        <div class="ui container" id="content">
+            {{ content }}
         </div>
     </div>
-    <script src="/js/jquery.min.js"></script>
-    <script src="/js/semantic.min.js"></script>
-    <script type="text/javascript">
-    $('.ui.dropdown').dropdown();
-    $('.masthead').visibility({
-          once: false,
-          onBottomPassed: function() {
-            $('.fixed.menu').transition('fade in');
-          },
-          onBottomPassedReverse: function() {
-            $('.fixed.menu').transition('fade out');
-          }
-        }
-    );
-    </script>
-</body>
-</html>
+</div>
+{% include footer.html %}
