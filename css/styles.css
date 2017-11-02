@@ -110,3 +110,7 @@ body {
 #content {
     font-size: 1.4em;
 }
+
+.ui.food.label {
+    float: right;
+}
