@@ -45,6 +45,8 @@
 }
 .ui.vertical.stripe h3 {
   font-size: 1.3em;
+}
+.ui.vertical.stripe h4 {
   font-weight: bold;
 }
 .ui.vertical.stripe p {
