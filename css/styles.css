@@ -4,7 +4,8 @@
 
 .title.segment {
     background: url('../img/light-triangles.png');
-    padding-top: 150px;
+    margin-top: 0;
+    padding-top: 70px;
     padding-bottom: 70px;
 }
 
@@ -127,4 +128,9 @@ body {
 
 .ui.food.label {
     float: right;
+}
+
+#top-menu-segment {
+    padding: 0;
+    background: white;
 }
