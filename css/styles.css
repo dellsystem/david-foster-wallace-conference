@@ -127,7 +127,9 @@ body {
 }
 
 .ui.food.label {
-    float: right;
+	margin-top: 5px;
+    width: 100%;
+	text-align: center;
 }
 
 #top-menu-segment {
